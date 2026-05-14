@@ -1,105 +1,105 @@
 <div align="center">
 
-<h1>xsinx</h1>
+# code with AI
 
-<p>
-backend developer • automation builder • code with ai
-</p>
+```txt
+building • automating • shipping
+```
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+Automation+Systems;PHP+Backend+Developer;Experimental+Projects;Minimal+Code+Lifestyle" />
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=xxxsinxme&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=ffffff"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxsinxme&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9cacc"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Automation;Backend+Development;Infrastructure+Engineering;Building+Systems;Always+Shipping" />
 
 </div>
 
 ---
 
-# about
+## about
 
 ```bash
-$ whoami
-
-backend developer
-automation builder
-experimental coder
-seo & infrastructure enthusiast
+> backend developer
+> automation enthusiast
+> infrastructure explorer
+> building tools with AI
 ```
 
 ---
 
-# stack
+## stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,javascript,nodejs,mysql,linux,bash,cloudflare,github,vscode&theme=dark" />
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,python,nodejs,javascript,typescript,mysql,mongodb,linux,bash,docker,cloudflare,git,vscode,nginx,redis" />
+</p>
 
 ---
 
-# current focus
+## currently
 
 ```txt
-building scalable automation systems
-ai workflow integration
-php backend architecture
-worker & infrastructure experiments
+- building ai workflows
+- experimenting with automation
+- optimizing backend systems
+- learning infrastructure scaling
 ```
 
 ---
 
-# philosophy
+## github stats
 
-```php
-<?php
+<p align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=xxxsinxme&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxsinxme&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-while (true) {
-    code();
-    improve();
-    repeat();
-}
+---
+
+## streak
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=xxxsinxme&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## contribution graph
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxxsinxme&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## tools i use
+
+```txt
+vscode
+docker
+linux
+cloudflare
+github
+postman
+figma
 ```
 
 ---
 
-# github activity
+## contact
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xxxsinxme&theme=github-compact&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff"/>
-
-</div>
-
----
-
-# streak stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=xxxsinxme&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
-
-</div>
-
----
-
-# profile views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=xxxsinxme&label=profile+views&color=111111&style=flat" />
-
-</div>
+```bash
+github   : https://github.com/xxxsinxme
+telegram : https://t.me/xxxsinxme
+x/twitter: https://x.com/xxxsinxme
+```
 
 ---
 
 <div align="center">
 
-minimal mind • endless build
+```txt
+Code with AI.
+Ship fast.
+Scale quietly.
+```
 
 </div>
