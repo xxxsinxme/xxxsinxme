@@ -1,55 +1,48 @@
-👋 coding with AI
+0xSINX
 
-building things • making life easier • shipping fast
+AI Engineer • Backend Architect • Systems Automator
 
-✨ A Little About Me
+📂 System Info
 
-$ identity --whois "xxxsinxme"
-> Hey there! I'm a developer who's really into connecting old-school 
-> systems with modern AI tools. Right now, I'm having a lot of fun 
-> building smart automated agents!
-
-
-🛠️ My Toolbox
-
-Category
-
-The tools I use
-
-Languages I speak
+$ neofetch --user "xxxsinxme"
+> [role]      : Backend Developer & AI Enthusiast
+> [focus]     : LLM Orchestration & Automation Pipelines
+> [motto]     : Code with AI. Ship fast. Scale quietly.
+> [location]  : Remote / Decentralized
 
 
+🛠️ Tech Stack
 
-Behind the scenes
+Area
+
+Technologies
+
+Languages
 
 
 
-Deploying & Cloud
+Databases
 
 
 
-My Workspace
+Infrastructure
 
 
 
-📊 How It's Going
-
-🚀 What I'm into right now
-
-🧠 AI is my jam: I love building helpful AI pipelines and smart agents.
-
-⚙️ Smooth Backend: I'm all about making sure systems run fast and scale well!
-
-🌐 Infrastructure fun: I enjoy playing around with Docker and new cloud tech.
-
-📬 Let's chat!
-
-const contact = {
-  github:   "xxxsinxme",
-  telegram: "@xxxsinxme",
-  twitter:  "@xxxsinxme",
-  status:   "I'm always open to working together!"
-};
+Tools
 
 
-Let's build cool things with AI! Ship it fast and keep it growing.
+
+📊 Vital Signs
+
+GitHub Stats
+
+Top Languages
+
+
+
+
+
+⚡ Activity Graph
+
+🔗 Connect
