@@ -1,105 +1,55 @@
-<div align="center">
+👋 coding with AI
 
-# code with AI
+building things • making life easier • shipping fast
 
-```txt
-building • automating • shipping
-```
+✨ A Little About Me
 
-<br>
+$ identity --whois "xxxsinxme"
+> Hey there! I'm a developer who's really into connecting old-school 
+> systems with modern AI tools. Right now, I'm having a lot of fun 
+> building smart automated agents!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Automation;Backend+Development;Infrastructure+Engineering;Building+Systems;Always+Shipping" />
 
-</div>
+🛠️ My Toolbox
 
----
+Category
 
-## about
+The tools I use
 
-```bash
-> backend developer
-> automation enthusiast
-> infrastructure explorer
-> building tools with AI
-```
+Languages I speak
 
----
 
-## stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,python,nodejs,javascript,typescript,mysql,mongodb,linux,bash,docker,cloudflare,git,vscode,nginx,redis" />
-</p>
+Behind the scenes
 
----
 
-## currently
 
-```txt
-- building ai workflows
-- experimenting with automation
-- optimizing backend systems
-- learning infrastructure scaling
-```
+Deploying & Cloud
 
----
 
-## github stats
 
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=xxxsinxme&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxsinxme&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+My Workspace
 
----
 
-## streak
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=xxxsinxme&theme=github-dark-blue&hide_border=true" />
-</p>
+📊 How It's Going
 
----
+🚀 What I'm into right now
 
-## contribution graph
+🧠 AI is my jam: I love building helpful AI pipelines and smart agents.
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxxsinxme&theme=github-compact&hide_border=true" />
-</p>
+⚙️ Smooth Backend: I'm all about making sure systems run fast and scale well!
 
----
+🌐 Infrastructure fun: I enjoy playing around with Docker and new cloud tech.
 
-## tools i use
+📬 Let's chat!
 
-```txt
-vscode
-docker
-linux
-cloudflare
-github
-postman
-figma
-```
+const contact = {
+  github:   "xxxsinxme",
+  telegram: "@xxxsinxme",
+  twitter:  "@xxxsinxme",
+  status:   "I'm always open to working together!"
+};
 
----
 
-## contact
-
-```bash
-github   : https://github.com/xxxsinxme
-telegram : https://t.me/xxxsinxme
-x/twitter: https://x.com/xxxsinxme
-```
-
----
-
-<div align="center">
-
-```txt
-Code with AI.
-Ship fast.
-Scale quietly.
-```
-
-</div>
+Let's build cool things with AI! Ship it fast and keep it growing.
