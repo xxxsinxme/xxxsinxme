@@ -1,53 +1,63 @@
+<div align="center">
+
 # code with AI
 
+```txt
+building • automating • shipping
+```
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Automation;Backend+Development;Infrastructure+Engineering;Building+Systems;Always+Shipping" />
+
+</div>
+
+---
+
+## about
+
 ```bash
-> building systems
-> automating workflows
-> shipping ideas
+> backend developer
+> automation enthusiast
+> infrastructure explorer
+> building tools with AI
 ```
 
 ---
 
 ## stack
 
-```txt
-php
-python
-javascript
-nodejs
-mysql
-linux
-cloudflare
-docker
-```
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,python,nodejs,javascript,typescript,mysql,mongodb,linux,bash,docker,cloudflare,git,vscode,nginx,redis" />
+</p>
 
 ---
 
 ## currently
 
-- building AI tools
+```txt
+- building ai workflows
 - experimenting with automation
-- learning infrastructure scaling
 - optimizing backend systems
+- learning infrastructure scaling
+```
 
 ---
 
 ## github stats
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xxxsinxme&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-</p>
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxsinxme&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=xxxsinxme&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxsinxme&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## tools
+## streak
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,python,nodejs,js,mysql,linux,docker,cloudflare,git,vscode"/>
+  <img src="https://streak-stats.demolab.com?user=xxxsinxme&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
@@ -55,15 +65,41 @@ docker
 ## contribution graph
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxxsinxme&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxxsinxme&theme=github-compact&hide_border=true" />
 </p>
+
+---
+
+## tools i use
+
+```txt
+vscode
+docker
+linux
+cloudflare
+github
+postman
+figma
+```
 
 ---
 
 ## contact
 
-```txt
-github     : github.com/xxxsinxme
-telegram   : t.me/xxxsinxme
-twitter/x  : x.com/xxxsinxme
+```bash
+github   : https://github.com/xxxsinxme
+telegram : https://t.me/xxxsinxme
+x/twitter: https://x.com/xxxsinxme
 ```
+
+---
+
+<div align="center">
+
+```txt
+Code with AI.
+Ship fast.
+Scale quietly.
+```
+
+</div>
